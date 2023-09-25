@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\bin\Debug\ArrayManip.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\bin\Debug\ArrayManip.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\bin\Debug\ArrayManip.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\obj\Debug\ArrayManip.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\obj\Debug\ArrayManip.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\obj\Debug\ArrayManip.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\obj\Debug\ArrayManip.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ArrayManip\obj\Debug\ArrayManip.pdb
