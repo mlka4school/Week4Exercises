@@ -57,13 +57,22 @@ namespace ArrayManip
 			}
 			switch (selection){
 				case 1:
-
+					Console.WriteLine("The minimum is: "+intArray.Min().ToString());
+					Console.WriteLine("The maximum is: "+intArray.Max().ToString());
 					Console.WriteLine("Press any key to continue...");
 					Console.ReadKey();
 				break;
 				case 2:
-					Console.WriteLine("Sum: ");
-					Console.WriteLine("Avg: ");
+					var sumOfAll = 0;
+					var avgOfAll = 0;
+					var avgTally = 0;
+					foreach (int num in intArray){
+						sumOfAll += num;
+						++avgTally;
+					}
+					avgOfAll = sumOfAll/avgTally;
+					Console.WriteLine("The sum is: "+sumOfAll.ToString());
+					Console.WriteLine("The average is: "+avgOfAll.ToString());
 
 					Console.WriteLine("Press any key to continue...");
 					Console.ReadKey();

@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\bin\Debug\StudentRecords.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\bin\Debug\StudentRecords.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\bin\Debug\StudentRecords.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\obj\Debug\StudentRecords.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\obj\Debug\StudentRecords.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\obj\Debug\StudentRecords.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\obj\Debug\StudentRecords.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\StudentRecords\obj\Debug\StudentRecords.pdb
