@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\bin\Debug\ExerciseOnLINQ.exe.config
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\bin\Debug\ExerciseOnLINQ.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\bin\Debug\ExerciseOnLINQ.pdb
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\obj\Debug\ExerciseOnLINQ.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\obj\Debug\ExerciseOnLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\obj\Debug\ExerciseOnLINQ.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\obj\Debug\ExerciseOnLINQ.exe
+C:\Users\JacksonCooper\Documents\GitHub\Week4Exercises\ExerciseOnLINQ\obj\Debug\ExerciseOnLINQ.pdb
